@@ -1,0 +1,4 @@
+kaggle-environments
+requests
+jupyter
+numpy
