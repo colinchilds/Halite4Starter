@@ -1,5 +1,5 @@
 # Halite4Starter
-This is just a simple greedy starter bot for Halite season 4. Last year, the Two Sigma team gave us a lot of great bots to get started with so more time could be spent on working on your bot, and less on simply parsing game data. Unfortunately, they did not do that this year. I decided to convert some of the basic features from my previous year's Java bot into Python.
+This is just a simple greedy starter bot for Halite season 4. Last year, the Two Sigma team gave us a lot of great bots to get started with so more time could be spent on working on your bot, and less on simply parsing game data. Unfortunately, they did not do that this year. I decided to convert some of the basic features from my previous year's Java bot into Python. Kaggle only allows for a single file upload, so that's why I have put all the code in `submission.py`.
 
 ## To run the bot:
 It's recommended to create a virtualenv:
@@ -11,7 +11,7 @@ source venv/bin/activate
 
 Install the requirements:
 ```commandline
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 Run the bot:
